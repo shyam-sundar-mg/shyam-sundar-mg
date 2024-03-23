@@ -1,20 +1,16 @@
-# Hello, World! 👋
+# Supp nerdzzz! 🤓✨
+
+## Yo, I'm Shyam! (💥 SMG 💥 )
+👋 A data science enthu with a flair for robotics. I'm all about crunching numbers, building cool stuff, and making data dance!
 
 ## About Me
-🤖 Hi there! I'm Sundar, a passionate data science enthusiast. I love exploring the intersection of data and technology to solve real-world problems and create innovative solutions. 
+🤖 Started my journey tinkering with robotic simulations, robots, and coding in Python. Now, I'm diving deep into data science, hoping to weave magic with statistics and deep learning.
 
-## My Journey
-🚀 I started my journey in robotics, where I honed my skills in Python, machine learning, and control systems. This experience has given me a solid foundation in programming and problem-solving.
+## What's Poppin'
+🚀 Currently leveling up my SQL skills and getting cozy with DL algorithms. Cooking up some dope data visualizations and predicting the future with data!
 
-💡 Recently, I've ventured into the exciting field of data science, diving deep into statistics, data visualization, and predictive modeling. I'm fascinated by the power of data to drive insights and inform decision-making.
+## Let's Get Lit
+🔥 Down for collabs, brainstorming sessions, or just nerding out over tech? Hit me up! Connect with me on LinkedIn [https://www.linkedin.com/in/sundar-mgs/] or drop me an email at [shyam3nitt@gmail.com].
 
-## What I'm Working On
-🔍 Currently, I'm working on sharpening my skills in SQL, exploring advanced machine learning algorithms, and applying data science techniques to analyze complex datasets. I'm always eager to learn and stay updated with the latest trends in the industry.
-
-## Let's Connect
-🌐 If you're interested in collaborating on data science projects or discussing robotics innovations, feel free to reach out! I'm always open to new opportunities and meaningful collaborations.
-
-📫 You can connect with me via email at [shyam3nitt@gmail.com] or find me on LinkedIn [https://www.linkedin.com/in/sundar-mgs/].
-
+Stay curious, stay nerdy! 🌟
 Happy coding! 🌟
-
