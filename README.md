@@ -1,6 +1,6 @@
-# Supp nerdzzz! 🤓✨
+# Ello all!
 
-## Yo, I'm Shyam! (💥 SMG 💥 )
+## Me's Shyam! (SMG💥)
 👋 A data science enthu with a flair for robotics. I'm all about crunching numbers, building cool stuff, and making data dance!
 
 ## About Me
