@@ -1,6 +1,6 @@
 # Ello all!
 
-## Me's Shyam! (SMG💥)
+## Me's Shyam! 
 👋 A data science enthu with a flair for robotics. I'm all about crunching numbers, building cool stuff, and making data dance!
 
 ## About Me
